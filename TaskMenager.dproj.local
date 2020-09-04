@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/09/03 20:51:07.252,=C:\Users\jvito\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/03 21:00:11.691,C:\Users\jvito\Documents\Embarcadero\Studio\Projects\Snapshot\SnapTask.dfm=C:\Users\jvito\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/09/03 21:00:11.691,C:\Users\jvito\Documents\Embarcadero\Studio\Projects\Snapshot\SnapTask.pas=C:\Users\jvito\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/03 21:00:33.582,C:\Users\jvito\Documents\Embarcadero\Studio\Projects\TaskMenager.dproj=C:\Users\jvito\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/09/03 21:00:57.010,C:\Users\jvito\Documents\Embarcadero\Studio\Projects\Snapshot\TaskMenager.dproj=C:\Users\jvito\Documents\Embarcadero\Studio\Projects\TaskMenager.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
